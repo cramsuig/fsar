@@ -1,0 +1,12 @@
+Package: fsar
+Title: Feature set analyses
+Version: 0.0.0.9000
+Authors@R: 
+    person("Ciro", "Ramírez-Suástegui", , "ksuasteguic@gmail.com", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0001-8126-710X"))
+Description: Run GSEA, Module Score, and other signature
+    analyses.
+License: GPL (>= 3)
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.0.0
